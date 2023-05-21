@@ -7,3 +7,12 @@ edition = "2021"
 
 [dependencies]
 gitignore = "1.0.8"
+tokio = { version = "1", features = ["full"] }
+
+[[bin]]
+name = "mouse_key_share_client"
+path = "src/client.rs"
+
+[[bin]]
+name = "mouse_key_share_server"
+path = "src/server.rs"

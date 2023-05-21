@@ -1,0 +1,11 @@
+/Users/huangguanfu/Rust_Project/projects/MouseKeyShare/MouseKeyShare/target/debug/deps/socket2-f7fd97e5cd355bba.rmeta: /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/huangguanfu/Rust_Project/projects/MouseKeyShare/MouseKeyShare/target/debug/deps/libsocket2-f7fd97e5cd355bba.rlib: /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/huangguanfu/Rust_Project/projects/MouseKeyShare/MouseKeyShare/target/debug/deps/socket2-f7fd97e5cd355bba.d: /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs /Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs
+
+/Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/lib.rs:
+/Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockaddr.rs:
+/Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/socket.rs:
+/Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sockref.rs:
+/Users/huangguanfu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.9/src/sys/unix.rs:
